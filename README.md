@@ -8,7 +8,7 @@ uma solução real e eficaz.
 O objetivo deste projeto é desenvolver um dashboard interativo no Power BI para analisar dados de vendas. O dashboard deve fornecer insights valiosos
 sobre o desempenho das vendas, identificar tendências e oportunidades de crescimento, e auxiliar na tomada de decisões estratégicas.
 ## Fonte de dados:
-Arquivo: Financial Sample.XLS
+Arquivo: Financial-Sample.XLS
 
 ## Etapas do Projeto:
 * **Coleta e preparação dos dados:** Importar os dados para o Power BI e realizar o pré-processamento necessário.
@@ -53,7 +53,7 @@ Arquivo: Financial Sample.XLS
 * **Gráfico de Pizza: Soma de profit por segment:** Mostra a distribuição do lucro por segmento, permitindo identificar os segmentos mais rentáveis.
 
 ## Entrega:
-* [Arquivo PDF, contendo as visualizações](visualizaca0.pdf)
+* Arquivo PDF, contendo as visualizações: visualizacao.pdf
 ## Considerações Finais
 Ao realizar este projeto pude demonstrar a importância da análise de dados para a tomada de decisões estratégicas em uma empresa. O Power BI é uma ferramenta poderosa para visualizar e explorar 
 grandes volumes de dados, permitindo identificar padrões e tendências que podem ser utilizadas para otimizar os resultados do negócio.
