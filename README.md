@@ -45,8 +45,8 @@ Arquivo: Financial-Sample.XLS
 #### Visual 2: Relatório de vendas Considerando produtos e segmentos
 * **Cards: Soma de sales  e Máximo de Units Sold:** Apresentam as métricas principais de vendas, como o total de vendas e a quantidade máxima de unidades vendidas.
 * **Gráfico de Pizza: Soma de Profit por Country:** Mostra a distribuição do lucro por país, permitindo identificar os mercados mais lucrativos.
-* **Gráfico de Colunas:** Soma de Profit por ano e mês: Permite analisar a evolução do lucro ao longo do tempo, identificando períodos de maior e menor rentabilidade.
-* **Gráfico de Colunas:** Soma de Sales por Country: Apresenta as vendas por país, permitindo comparar o desempenho de diferentes mercados.
+* **Gráfico de Colunas: Soma de Profit por ano e mês:** Permite analisar a evolução do lucro ao longo do tempo, identificando períodos de maior e menor rentabilidade.
+* **Gráfico de Colunas: Soma de Sales por Country:** Apresenta as vendas por país, permitindo comparar o desempenho de diferentes mercados.
 #### Visual 3: Distribuição de Lucro, vendas e unidades vendidas por país e segmento
 * **Mapa 1: Soma de sales e e units Sold por Country:** Visualiza a distribuição geográfica das vendas e da quantidade de unidades vendidas.
 * **Mapa 2: Soma de Profit por Country:** Apresenta a distribuição geográfica do lucro.
