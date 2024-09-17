@@ -53,7 +53,7 @@ Arquivo: Financial Sample.XLS
 * **Gráfico de Pizza: Soma de profit por segment:** Mostra a distribuição do lucro por segmento, permitindo identificar os segmentos mais rentáveis.
 
 ## Entrega:
-* Arquivo PDF, contendo as visualizações
+* [Arquivo PDF, contendo as visualizações](visualizaca0.pdf)
 ## Considerações Finais
 Ao realizar este projeto pude demonstrar a importância da análise de dados para a tomada de decisões estratégicas em uma empresa. O Power BI é uma ferramenta poderosa para visualizar e explorar 
 grandes volumes de dados, permitindo identificar padrões e tendências que podem ser utilizadas para otimizar os resultados do negócio.
